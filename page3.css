@@ -1,0 +1,10 @@
+body{
+
+background-color: rgb(230, 199, 208);
+}
+h2{color: black;
+font-style: italic; }
+span{
+    text-align: center;
+    font-size: 80%;
+}
